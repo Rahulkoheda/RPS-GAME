@@ -1,0 +1,2 @@
+# RPS-GAME
+this ia a ROCK PAPER SICCSORS game
